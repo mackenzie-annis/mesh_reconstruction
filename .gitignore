@@ -1,1 +1,8 @@
 .venv/
+sam_vit_h_4b8939.pth
+sam_vit_h_4b8939.pth.1
+grogu.mp4 
+images/
+masks/
+output_frames/
+colmap/
