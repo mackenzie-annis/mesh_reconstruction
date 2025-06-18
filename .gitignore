@@ -6,3 +6,4 @@ images/
 masks/
 output_frames/
 colmap/
+dataset_generation/vocab_tree_flickr100K_words256K.bin
